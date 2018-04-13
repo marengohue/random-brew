@@ -1,3 +1,3 @@
 # Ideas
-[yanazazoo](/yanazazoo)    
-[marengohue](/marengohue)
+[yanazazoo](https://github.com/yanazazoo)    
+[marengohue](https://github.com/marengohue)
