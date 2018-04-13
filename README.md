@@ -8,7 +8,7 @@ A tool to generate random coctails out of a limited set of components
 2) Hit "Generate"
 3) Mix and drink
 4) Rate the mix
-5) Repeat steps 1 though 4 till wasted
+5) Repeat steps 2 though 4 till wasted
 
 ## How exactly?
 App chooses a single or multiple coctail bases (liquors), a mixer, a garnish and (optionally) extra stuff defined in the availability list. It should (probably) take user input into consideration.
