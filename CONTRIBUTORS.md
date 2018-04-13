@@ -1,3 +1,3 @@
 # Ideas
-[/yanazazoo](yanazazoo)
-[/marengohue](marengohue)
+[yanazazoo](/yanazazoo)    
+[marengohue](/marengohue)
